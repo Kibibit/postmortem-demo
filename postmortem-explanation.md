@@ -34,3 +34,7 @@ tracked, the more detailed an analysis can be performed during the
 project post-mortem.
 
 source: [wikipedia](https://en.wikipedia.org/wiki/Postmortem_documentation)
+
+### Example Variables:
+
+this is the **homepage** layout
