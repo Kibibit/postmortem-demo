@@ -28,7 +28,9 @@ By default, the theme supports the following includes:
   
   ##### DEMO
   ----
+  
   {% include backy.html %}
+  
   ----
 - #### explain
   use `include explain.html details="<explanation>"` to add an index after a specific word. the `details` variable will be included in the footer
@@ -36,7 +38,9 @@ By default, the theme supports the following includes:
   
   ##### DEMO
   ----
-  {% include explain.html details="explanation" %}
+  Very Hard Concept{% include explain.html details="Explanation of very hard concept" %}
+  
+  (check out the page footer)
   ----
 - #### navigation
   use `include nav.html` to add the navigation bar to your page
