@@ -24,7 +24,7 @@ Basically, there are **3 page layouts** at the moment:
 By default, the theme supports the following includes:
 
 - #### backy
-  use `include backy.html` in order to include a back button to the homepage (or use like `{% include backy.html upbyone=true %}` in order to go up one step)
+  use `include backy.html` in order to include a back button to the homepage (or use like `include backy.html upbyone=true` in order to go up one step)
   
   ##### DEMO
   {% include backy.html %}
@@ -33,7 +33,7 @@ By default, the theme supports the following includes:
   
   
   ##### DEMO
-  {% include explain.html details="<explanation>" %}
+  {% include explain.html details="explanation" %}
 - #### navigation
   use `include nav.html` to add the navigation bar to your page
   
