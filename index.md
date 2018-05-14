@@ -25,13 +25,6 @@ By default, the theme supports the following includes:
 
 - #### backy
   use `include backy.html` in order to include a back button to the homepage (or use like `include backy.html upbyone=true` in order to go up one step)
-  
-  ##### DEMO
-----
-
-{% include backy.html %}
-
-----
 
 - #### explain
   use `include explain.html details="<explanation>"` to add an index after a specific word. the `details` variable will be included in the footer
