@@ -17,6 +17,7 @@ you’re more than welcome to contribute!
 
 This is a Jekyll theme for GitHub Pages. It's the more "formal" theme we have for important documents (happy theme: kibibit/colorful-theme)
 
-this is the **default** layout
 
-nav should shoe incident number as well
+### Example Variables:
+
+this is the **default** layout
