@@ -49,6 +49,12 @@ created by Neil Kalman thatkookooguy@kibibit.io
 
 <span class="kb-logo"><a href="http://kibibit.io">kibibit</a></span>
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 
 ## Example Variables:
 
