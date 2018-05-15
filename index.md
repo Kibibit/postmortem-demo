@@ -50,6 +50,6 @@ created by Neil Kalman thatkookooguy@kibibit.io
 <span class="kb-logo"><a href="http://kibibit.io">kibibit</a></span>
 
 
-### Example Variables:
+## Example Variables:
 
 this is the **homepage** layout
