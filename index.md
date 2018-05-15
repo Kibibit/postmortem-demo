@@ -23,16 +23,16 @@ Basically, there are **3 page layouts** at the moment:
 
 By default, the theme supports the following includes:
 
-- ## backy
+- #### backy
   use `include backy.html` in order to include a back button to the homepage (or use like `include backy.html upbyone=true` in order to go up one step)
 
-- ## explain
+- #### explain
   use `include explain.html details="<explanation>"` to add an index after a specific word. the `details` variable will be included in the footer
 
-- ## navigation
+- #### navigation
   use `include nav.html` to add the navigation bar to your page
 
-- ## date
+- #### date
   use `include date.html day="2015-10-21"` to include a date tag.
   date tags support the following variables: `day`, `zone`, `location` (`include date.html day="2015-10-21" zone="UTC" location="Tel-Aviv, Israel"`)
 
