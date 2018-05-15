@@ -61,4 +61,3 @@ For everyone who is affected, we apologize for any inconvenience you may be expe
 ### Supporting information{% include explain.html details="Useful information, links, logs, screenshots, graphs, IRC logs, IM logs, etc." %}
 
 - [Monitoring dashboard](http://monitor/shakespeare?end_time=20151021T160000&duration=7200)
-
