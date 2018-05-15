@@ -40,6 +40,9 @@ By default, the theme supports the following includes:
 The theme uses `anchor.js` to add anchor links to `h2`, `h3`, `h4` and `h5` headers.
 `h1` headers are considered main headers (one per page) so they don't have automatic anchor links
 
+## Dark theme button
+Uses bulmawatch. later, will allow you to select the theme with a jekyll variable
+
 ----
 
 created by Neil Kalman thatkookooguy@kibibit.io
