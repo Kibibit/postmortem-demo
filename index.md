@@ -1,5 +1,4 @@
 ---
-project: achievibit
 title: kibibit's Document Explorer
 layout: homepage
 ---
