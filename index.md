@@ -3,6 +3,7 @@ project: achievibit
 title: kibibit's Document Explorer
 layout: homepage
 ---
+
 # kibibit's Document Explorer - Jekyll theme
 
 Basically, there are **3 page layouts** at the moment:
