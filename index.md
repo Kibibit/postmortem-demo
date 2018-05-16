@@ -58,3 +58,4 @@ puts markdown.to_html
 ## Example Variables:
 
 this is the **homepage** layout
+
