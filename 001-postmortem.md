@@ -10,7 +10,6 @@ layout: postmortem
 permalink: /postmortem/001
 ---
 
-
 ### TL;DR{% include explain.html details="<strong>Too Long; Didn't Read</strong> - Very short description of the incident" %}
 
 Shakespeare Search down for 66 minutes during period of very high interest in Shakespeare due to discovery of a new sonnet.
